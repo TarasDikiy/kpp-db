@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">KPP_LR6</string>
+    <string name="loginField">Login</string>
+    <string name="passwordField">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="registerRef"><u>Register</u></string>
+    <string name="btnRegister">Register</string>
+    <string name="btnAdd">Додати в список</string>
+    <string name="btnSearch">Пошук</string>
+
+    <string name="wheatName">Назва сорту</string>
+    <string name="wheatSeason">Сезон</string>
+    <string name="wheatPeriod">Вегетаційний період</string>
+    <string name="wheatProductivity">Середня врожайнійсть</string>
+
+    <string-array name="wheatSeasons">
+        <item>Яра</item>
+        <item>Озима</item>
+    </string-array>
+
+    <string name="btn_save">Зберегти зміни</string>
+    <string name="btn_delete">Видалити</string>
+
+
+</resources>
